@@ -1,0 +1,3 @@
+textlogo = PhotoImage(file="assets/textlogo.png")
+logoDispaly = Label(root, image=textlogo, bg="#8A908B")
+logoDispaly.place(x=30, y=20)
